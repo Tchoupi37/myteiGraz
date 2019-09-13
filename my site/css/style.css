@@ -1,0 +1,4 @@
+tei-head { color:red; text-align: center}
+tei-head:before {content:"1."}
+tei-lg[type="three"] {color:green}
+tei-lg[type="four"] {color:pink}
